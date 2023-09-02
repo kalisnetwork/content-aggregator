@@ -26,3 +26,12 @@ The Content Aggregator is a Python project that allows users to fetch and view h
 
    ```bash
    git clone https://github.com/your-username/content-aggregator.git
+
+### Usage
+1. Open a terminal or command prompt.
+2. Navigate to the project directory.
+3. Run the script with Python:
+   ```bash
+   python content_aggregator.py
+4.Follow the on-screen instructions to select a news website and view headlines.
+5.To quit the program, enter 'q' when prompted for a website selection.
