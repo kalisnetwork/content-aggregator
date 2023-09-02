@@ -15,6 +15,54 @@ websites = [
         'name': 'The New York Times',
         'url': 'https://www.nytimes.com',
     },
+    {
+        'name': 'Reuters',
+        'url': 'https://www.reuters.com',
+    },
+    {
+        'name': 'The Guardian',
+        'url': 'https://www.theguardian.com',
+    },
+    {
+        'name': 'Al Jazeera',
+        'url': 'https://www.aljazeera.com',
+    },
+    {
+        'name': 'Associated Press',
+        'url': 'https://apnews.com',
+    },
+    {
+        'name': 'NBC News',
+        'url': 'https://www.nbcnews.com',
+    },
+    {
+        'name': 'CBS News',
+        'url': 'https://www.cbsnews.com',
+    },
+    {
+        'name': 'Fox News',
+        'url': 'https://www.foxnews.com',
+    },
+    {
+        'name': 'The Washington Post',
+        'url': 'https://www.washingtonpost.com',
+    },
+    {
+        'name': 'USA Today',
+        'url': 'https://www.usatoday.com',
+    },
+    {
+        'name': 'BBC World',
+        'url': 'https://www.bbc.com/world',
+    },
+    {
+        'name': 'CNBC',
+        'url': 'https://www.cnbc.com',
+    },
+    {
+        'name': 'ABC News',
+        'url': 'https://abcnews.go.com',
+    },
 ]
 
 def get_headlines(website):
