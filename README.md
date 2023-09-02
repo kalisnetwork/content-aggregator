@@ -4,6 +4,8 @@
 
 The Content Aggregator is a Python project that allows users to fetch and view headlines from popular news websites. It simplifies the process of finding and accessing relevant content from multiple sources.
 
+![Content Aggregator](https://github.com/kalisnetwork/content-aggregator/assets/106701723/596270fd-35cc-476f-83ff-96f870e1a907)
+
 ## Features
 
 - Fetch headlines from multiple news websites.
