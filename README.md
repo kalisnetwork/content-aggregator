@@ -33,6 +33,6 @@ The Content Aggregator is a Python project that allows users to fetch and view h
 3. Run the script with Python:
    ```bash
    python content_aggregator.py
-
+## Instructions
 4.Follow the on-screen instructions to select a news website and view headlines.
 5.To quit the program, enter 'q' when prompted for a website selection.
